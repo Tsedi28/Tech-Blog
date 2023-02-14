@@ -42,23 +42,21 @@ A CMS-style blog application with the MVC paradigm in its architectural structur
 - Signed-in user is able to update or delete their posts.
 - User is automatically signed out of the site when user is idle for some period of time
 
-```
+## screenshots:
 
-## screenshots :
+![Screenshot](./public/assets/homepage.png)
+![Screenshot](./public/assets/login.png)
+![Screenshot](./public/assets/edit.png)
+![Screenshot](./public/assets/comment.png)
 
-![](public/assets/homepage.png)
-![](public/assets/login.png)
-![](public/assets/edit.png)
-![](public/assets/comment.png)
-
-
-
+- - -
 
 ## License
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
+- - -
 
 ## Contribution
 Tsedenia Bogale ©2023 All Rights Reserved.

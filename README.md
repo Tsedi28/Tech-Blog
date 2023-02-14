@@ -2,7 +2,7 @@
 
 ### Github : https://github.com/Tsedi28/Tech-Blog
 
-### Heroku : https://tech-blog2.herokuapp.com/
+### Heroku : https://mysterious-brushlands-21751.herokuapp.com/
 
 ## Table of Contents
 

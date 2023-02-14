@@ -2,7 +2,7 @@
 
 ### Github : https://github.com/Tsedi28/Tech-Blog
 
-### Heroku : 
+### Heroku : https://tech-blog2.herokuapp.com/
 
 ## Table of Contents
 

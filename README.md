@@ -60,5 +60,5 @@ This project is licensed under MIT, for more information please visit [this webs
 - - -
 
 ## Contribution
-Tsedenia Bogale ©2023 All Rights Reserved.
+Tsedi ©2023 All Rights Reserved.
 - - -
